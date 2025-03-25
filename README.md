@@ -29,3 +29,8 @@ The project utilizes Sales-related data obtained from [Kaggle](). The dataset in
 3. Open the Jupyter Notebook file Sales_prediction_using_python.ipynb to view and interact with the code
 4. Run the cells in the notebook to execute the code and view the results
 
+---
+
+## Connect With Me 🌐
+
+**[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vetrivel%20Maheswaran-blue?logo=linkedin)](https://www.linkedin.com/in/vetrivel-maheswaran/)**
